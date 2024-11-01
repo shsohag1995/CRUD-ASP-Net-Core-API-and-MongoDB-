@@ -1,0 +1,17 @@
+E:\CGCAPI\CGC.API\CGC.Application\bin\Debug\net7.0\CGC.Application.deps.json
+E:\CGCAPI\CGC.API\CGC.Application\bin\Debug\net7.0\CGC.Application.dll
+E:\CGCAPI\CGC.API\CGC.Application\bin\Debug\net7.0\CGC.Application.pdb
+E:\CGCAPI\CGC.API\CGC.Application\bin\Debug\net7.0\CGC.Domain.dll
+E:\CGCAPI\CGC.API\CGC.Application\bin\Debug\net7.0\CGC.Infrastructure.dll
+E:\CGCAPI\CGC.API\CGC.Application\bin\Debug\net7.0\CGC.Domain.pdb
+E:\CGCAPI\CGC.API\CGC.Application\bin\Debug\net7.0\CGC.Infrastructure.pdb
+E:\CGCAPI\CGC.API\CGC.Application\obj\Debug\net7.0\CGC.Application.csproj.AssemblyReference.cache
+E:\CGCAPI\CGC.API\CGC.Application\obj\Debug\net7.0\CGC.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\CGCAPI\CGC.API\CGC.Application\obj\Debug\net7.0\CGC.Application.AssemblyInfoInputs.cache
+E:\CGCAPI\CGC.API\CGC.Application\obj\Debug\net7.0\CGC.Application.AssemblyInfo.cs
+E:\CGCAPI\CGC.API\CGC.Application\obj\Debug\net7.0\CGC.Application.csproj.CoreCompileInputs.cache
+E:\CGCAPI\CGC.API\CGC.Application\obj\Debug\net7.0\CGC.Application.csproj.CopyComplete
+E:\CGCAPI\CGC.API\CGC.Application\obj\Debug\net7.0\CGC.Application.dll
+E:\CGCAPI\CGC.API\CGC.Application\obj\Debug\net7.0\refint\CGC.Application.dll
+E:\CGCAPI\CGC.API\CGC.Application\obj\Debug\net7.0\CGC.Application.pdb
+E:\CGCAPI\CGC.API\CGC.Application\obj\Debug\net7.0\ref\CGC.Application.dll

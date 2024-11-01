@@ -1,0 +1,12 @@
+E:\CGCAPI\CGC.API\CGC.Domain\bin\Debug\net7.0\CGC.Domain.deps.json
+E:\CGCAPI\CGC.API\CGC.Domain\bin\Debug\net7.0\CGC.Domain.dll
+E:\CGCAPI\CGC.API\CGC.Domain\bin\Debug\net7.0\CGC.Domain.pdb
+E:\CGCAPI\CGC.API\CGC.Domain\obj\Debug\net7.0\CGC.Domain.csproj.AssemblyReference.cache
+E:\CGCAPI\CGC.API\CGC.Domain\obj\Debug\net7.0\CGC.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\CGCAPI\CGC.API\CGC.Domain\obj\Debug\net7.0\CGC.Domain.AssemblyInfoInputs.cache
+E:\CGCAPI\CGC.API\CGC.Domain\obj\Debug\net7.0\CGC.Domain.AssemblyInfo.cs
+E:\CGCAPI\CGC.API\CGC.Domain\obj\Debug\net7.0\CGC.Domain.csproj.CoreCompileInputs.cache
+E:\CGCAPI\CGC.API\CGC.Domain\obj\Debug\net7.0\CGC.Domain.dll
+E:\CGCAPI\CGC.API\CGC.Domain\obj\Debug\net7.0\refint\CGC.Domain.dll
+E:\CGCAPI\CGC.API\CGC.Domain\obj\Debug\net7.0\CGC.Domain.pdb
+E:\CGCAPI\CGC.API\CGC.Domain\obj\Debug\net7.0\ref\CGC.Domain.dll

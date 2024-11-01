@@ -1,0 +1,15 @@
+E:\CGCAPI\CGC.API\CGC.Infrastructure\bin\Debug\net7.0\CGC.Infrastructure.deps.json
+E:\CGCAPI\CGC.API\CGC.Infrastructure\bin\Debug\net7.0\CGC.Infrastructure.dll
+E:\CGCAPI\CGC.API\CGC.Infrastructure\bin\Debug\net7.0\CGC.Infrastructure.pdb
+E:\CGCAPI\CGC.API\CGC.Infrastructure\bin\Debug\net7.0\CGC.Domain.dll
+E:\CGCAPI\CGC.API\CGC.Infrastructure\bin\Debug\net7.0\CGC.Domain.pdb
+E:\CGCAPI\CGC.API\CGC.Infrastructure\obj\Debug\net7.0\CGC.Infrastructure.csproj.AssemblyReference.cache
+E:\CGCAPI\CGC.API\CGC.Infrastructure\obj\Debug\net7.0\CGC.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\CGCAPI\CGC.API\CGC.Infrastructure\obj\Debug\net7.0\CGC.Infrastructure.AssemblyInfoInputs.cache
+E:\CGCAPI\CGC.API\CGC.Infrastructure\obj\Debug\net7.0\CGC.Infrastructure.AssemblyInfo.cs
+E:\CGCAPI\CGC.API\CGC.Infrastructure\obj\Debug\net7.0\CGC.Infrastructure.csproj.CoreCompileInputs.cache
+E:\CGCAPI\CGC.API\CGC.Infrastructure\obj\Debug\net7.0\CGC.Infrastructure.csproj.CopyComplete
+E:\CGCAPI\CGC.API\CGC.Infrastructure\obj\Debug\net7.0\CGC.Infrastructure.dll
+E:\CGCAPI\CGC.API\CGC.Infrastructure\obj\Debug\net7.0\refint\CGC.Infrastructure.dll
+E:\CGCAPI\CGC.API\CGC.Infrastructure\obj\Debug\net7.0\CGC.Infrastructure.pdb
+E:\CGCAPI\CGC.API\CGC.Infrastructure\obj\Debug\net7.0\ref\CGC.Infrastructure.dll
